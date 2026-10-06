@@ -112,7 +112,7 @@ The system supports commands such as:
 
 # **Working** 
 
-![][image1]
+![WORKING](WORKING.png)
 
 ---
 
