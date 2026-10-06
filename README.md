@@ -242,4 +242,4 @@ The project demonstrates the implementation of an offline TinyML voice-control s
 
 The working prototype demonstrates the potential of **Edge AI for low-cost, privacy-focused and real-time voice interaction on resource-constrained embedded devices.**
 
-[image1]: 
+
